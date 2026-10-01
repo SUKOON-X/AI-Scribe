@@ -1,0 +1,11 @@
+.env
+
+.venv/
+
+.agents/
+.claude/
+
+
+skills-lock.json
+
+implementation_roadmap.md
